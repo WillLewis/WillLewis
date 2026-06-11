@@ -2,7 +2,7 @@
 
 AI/ML Product Manager — agentic systems, evals, and ML decisioning in regulated environments.
 
-8+ years shipping 0-1 AI products. Most recently led a neurosymbolic multi-agent review system at Capital One that cut high-volume fraud/ops review time from ~20 minutes to ~2 minutes across ~1M monthly cases. Before that: enterprise RAG at HPE (guide traffic −80%), ML content tagging at Stanford Medicine (~$400K annual savings), and computer-vision fraud detection at a C2B marketplace.
+8+ years shipping 0-1 AI products. Most recently led a neurosymbolic multi-agent review system at Capital One that cut high-volume fraud/ops review time from ~20 minutes to ~2 minutes across 1M monthly cases. Before that: enterprise RAG at HPE (guide traffic −80%), ML content tagging at Stanford Medicine (~$400K annual savings), and computer-vision fraud detection at a C2B marketplace.
 
 The thesis that runs through everything here: **agents propose, code decides.** Models are good at compressing the messy middle of a workflow. The harness — policy layer, held-out evals, deterministic gates — is what makes them shippable. So that's what I build.
 
