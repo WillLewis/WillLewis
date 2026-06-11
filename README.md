@@ -19,4 +19,3 @@ Live demos and full case studies: **[wxl3.com](https://wxl3.com)**
 
 Wharton MBA · UPenn Economics · UC Berkeley graduate coursework in data science. AI PM since 2017. Particular interests in adversarial systems, agentic automation, long-distance running and football.
 
-📫 [willxemail@gmail.com](mailto:willxemail@gmail.com) 
