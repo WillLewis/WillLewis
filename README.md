@@ -2,13 +2,10 @@
 
 AI/ML Product Manager — agentic systems, evals, and ML decisioning in regulated environments.
 
-8+ years shipping 0-1 AI products. Most recently led a neurosymbolic multi-agent review system at Capital One that cut high-volume fraud/ops review time from \~20 minutes to \~2 minutes across 1M monthly cases. Before that: enterprise RAG at HPE (support tickets reduced 30%), ML content tagging at Stanford Medicine (\~$400K annual savings), and computer-vision fraud detection at a C2B marketplace.
-
-The thesis that runs through everything here: **agents propose, code decides.** Models are good at compressing the messy middle of a workflow. The harness — policy layer, held-out evals, deterministic gates — is what makes them shippable. So that's what I build.
-
+Agents propose, code decides. Models are good at compressing the messy middle of a workflow. The harness — policy layer, held-out evals, deterministic gates — is what makes them shippable. 🚀 
 ## Selected work
 
-**[atlas-agentic-fraud-lab](https://github.com/WillLewis/atlas-agentic-fraud-lab)** — Red-team agents attack a mock fraud scorer, defense agents propose fixes, a deterministic judge decides. Recall at capped customer friction went 27% → 97% across three rounds — and the judge rejected the Round 1 fix that looked good on found examples but failed the locked holdout. That rejection is the point.
+**[atlas-agentic-fraud-lab](https://github.com/WillLewis/atlas-agentic-fraud-lab)** — Red-team agents attack a mock fraud scorer for $SYN, defense agents propose fixes, a deterministic judge decides. Recall at capped customer friction went 27% → 97% across three rounds — and the judge rejected the Round 1 fix that looked good on found examples but failed the locked holdout. That rejection means its working.
 
 **[agent-harness-environment](https://github.com/WillLewis/agent-harness-environment)** — Coding agents pass the tests they can see. A held-out battery they never see shows a 2.5x quality spread across model tiers that the visible pass rate (100% everywhere) is blind to. Goodhart's law, instrumented.
 
@@ -20,7 +17,6 @@ Live demos and full case studies: **[wxl3.com](https://wxl3.com)**
 
 ## Background
 
-Wharton MBA · Penn Economics · UC Berkeley graduate coursework in data science. PM since 2018, ML focus since 2017. Particular interest in adversarial systems, agentic automation, and football.
+Wharton MBA · UPenn Economics · UC Berkeley graduate coursework in data science. AI PM since 2017. Particular interests in adversarial systems, agentic automation, long-distance running and football.
 
-Open to Senior PM and Group PM roles · NYC / SF / Remote · Available June 2026
-📫 [willxemail@gmail.com](mailto:willxemail@gmail.com) · [LinkedIn](https://www.linkedin.com/in/willlinkedin/)
+📫 [willxemail@gmail.com](mailto:willxemail@gmail.com) 
