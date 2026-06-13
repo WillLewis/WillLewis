@@ -1,4 +1,3 @@
-&nbsp;
 
 &nbsp;
 
@@ -7,6 +6,7 @@ the harness holds every gate—
 evals are the ship.*    
 
 &nbsp;
+
 &nbsp;
 
 &nbsp;
