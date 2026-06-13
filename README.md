@@ -1,4 +1,3 @@
-# Will Lewis
 
 *Agents plan, code acts    
 the harness holds every gate—    
