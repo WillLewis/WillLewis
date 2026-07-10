@@ -1,9 +1,9 @@
 
 &nbsp;
 
-*Agents plan, code acts    
-the harness holds every gate—    
-evals are the ship.*    
+*Agents ship the code
+the harness steers the current—
+governance, the lock.*    
 
 &nbsp;
 &nbsp;
