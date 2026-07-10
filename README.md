@@ -1,8 +1,8 @@
 
 &nbsp;
 
-*Agents ship the code
-the harness steers the current—
+*Agents ship the code \
+the harness steers the current— \
 governance, the lock.*    
 
 &nbsp;
